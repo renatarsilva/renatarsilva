@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I'm Renata, but you can call me Maki ✨</h2>
+<h2 align="left">Hi! I'm Renata Rodryguez ✨</h2>
 
 ###
 
