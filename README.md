@@ -4,7 +4,7 @@
 
 <img align="right" height="120" src="https://media1.tenor.com/m/M-MGHhwFkYAAAAAd/maki-zennin.gif"  />
 
-<div align="left" style="display: flex; align-items: center;" > <p align="left">Hi! My name is Renata Rodryguez, but you can call me Maki<br>and chat with me here:</p>
+<div style="display: flex; align-items: center;" > <p align="left">Hi! My name is Renata Rodryguez, but you can call me Maki<br>and chat with me here:</p>
   <a href="https://www.linkedin.com/in/renatarodryguez/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
   </a>
@@ -12,7 +12,7 @@
 
 <p align="center">
   
-  I'm passionate about technology, data, and process optimization, with a solid background in Business Administration and specialization in Data Analysis.<br>Currently diving deep into Software Engineering to expand my technical skills and enhance my ability to build effective solutions. Using:</p>
+  I'm passionate about technology, data, and process optimization, with a solid background in Business Administration and specialization in Data Analysis. Currently diving deep into Software Engineering to expand my technical skills and enhance my ability to build effective solutions. Using:</p>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
