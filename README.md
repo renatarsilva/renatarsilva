@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Renata, but you can call me Maki ✨</h2>
+<h2 align="left">Hi!  ✨</h2>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">👋 Hi! I'm Renata Rodryguez<br><br>I'm passionate about technology, data, and process optimization, with a solid background in Business Administration and specialization in Data Analysis and Big Data. Currently diving deep into Software Engineering to expand my technical skills and enhance my ability to build effective solutions.</p>
+<p align="left">👋 Hi! My name is Renata, but you can call me Maki <br><br>I'm passionate about technology, data, and process optimization, with a solid background in Business Administration and specialization in Data Analysis. Currently diving deep into Software Engineering to expand my technical skills and enhance my ability to build effective solutions. Using:</p>
 
 ###
 
