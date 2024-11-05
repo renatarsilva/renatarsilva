@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi! I'm Renata Rodryguez! ✨</h1>
 
-<img align="right" height="120" src="https://media1.tenor.com/m/M-MGHhwFkYAAAAAd/maki-zennin.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/M-MGHhwFkYAAAAAd/maki-zennin.gif"  />
 
 <div style="display: flex; align-items: center;" > <p align="left">Hi! My name is Renata Rodryguez, but you can call me Maki<br>and chat with me here:</p>
   <a href="https://www.linkedin.com/in/renatarodryguez/" target="_blank">
