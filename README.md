@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">👋 Hi! My name is Renata Rodryguez, but you can call me Maki and chat with me here:</p>
+<p align="left">👋 Hi! My name is Renata Rodryguez, but you can call me Maki and chat with me here:</p>
 
 ###
 
