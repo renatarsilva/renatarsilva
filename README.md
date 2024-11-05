@@ -1,4 +1,6 @@
-<h2 align="left">Hi!  I'm Renata Rodryguez ✨</h2>
+<br clear="both">
+
+<h1 align="left">👋 Hi! I'm Renata Rodryguez</h1>
 
 ###
 
@@ -18,7 +20,7 @@
 
 <br clear="both">
 
-<img align="right" height="130" src="https://media1.tenor.com/m/M-MGHhwFkYAAAAAd/maki-zennin.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/M-MGHhwFkYAAAAAd/maki-zennin.gif"  />
 
 ###
 
