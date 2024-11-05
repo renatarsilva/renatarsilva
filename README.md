@@ -2,33 +2,18 @@
 
 <h1 align="left">Hi! I'm Renata Rodryguez! ✨</h1>
 
-###
+<img align="right" height="120" src="https://media1.tenor.com/m/M-MGHhwFkYAAAAAd/maki-zennin.gif"  />
 
-<p align="left">Hi! My name is Renata Rodryguez, but you can call me Maki and chat with me here:</p>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media1.tenor.com/m/M-MGHhwFkYAAAAAd/maki-zennin.gif"  />
-
-###
-
-<div align="left">
+<div align="left" style="display: flex; align-items: center;" > <p align="left">Hi! My name is Renata Rodryguez, but you can call me Maki<br>and chat with me here:</p>
   <a href="https://www.linkedin.com/in/renatarodryguez/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
-###
-
-<br clear="both">
 
 <p align="center">
   
   I'm passionate about technology, data, and process optimization, with a solid background in Business Administration and specialization in Data Analysis. Currently diving deep into Software Engineering to expand my technical skills and enhance my ability to build effective solutions. Using:</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
@@ -60,8 +45,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-###
-
 <p align="left">Experience<br>I'm working as a Performance Media Analyst, where I use Python, SQL, and Power BI to drive insights and improve the efficiency of marketing campaigns. With hands-on experience in Google Ads, Meta (Facebook/Instagram), and DV360, I focus on data-driven strategies that deliver impactful results. <br><br>Projects and Learning<br>Here on GitHub, you'll find projects ranging from Python automation to data analysis and visualization. I love exploring new technologies and creating solutions that simplify tasks and optimize workflows. <br><br>Currently Learning<br>Expanding my knowledge in Software Engineering fundamentals and deepening my expertise in Python and Golang to become a more versatile and capable developer.<br><br> Python, Go, ShellScript, AWS, JavaScript, TypeScript, React, Next, Tail, Canva, Figma, Docker, NestJs, NodeJs, Git</p>
-
-###
