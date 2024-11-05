@@ -10,10 +10,9 @@
   </a>
 </div>
 
-
 <p align="center">
   
-  I'm passionate about technology, data, and process optimization, with a solid background in Business Administration and specialization in Data Analysis. Currently diving deep into Software Engineering to expand my technical skills and enhance my ability to build effective solutions. Using:</p>
+  I'm passionate about technology, data, and process optimization, with a solid background in Business Administration and specialization in Data Analysis.<br>Currently diving deep into Software Engineering to expand my technical skills and enhance my ability to build effective solutions. Using:</p>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
