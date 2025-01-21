@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Hi! I'm Renata Rodryguez! ✨</h1>
+<h1 align="left">Hi! I'm Renata R.! ✨</h1>
 
 <img align="right" height="180" src="https://media1.tenor.com/m/M-MGHhwFkYAAAAAd/maki-zennin.gif"  />
 
