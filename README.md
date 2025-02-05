@@ -4,7 +4,7 @@
 
 <img align="right" height="180" src="https://media1.tenor.com/m/M-MGHhwFkYAAAAAd/maki-zennin.gif"  />
 
-<div style="display: flex; align-items: center;" > <p align="left">Hi! My name is Renata Rodryguez, but you can call me Maki<br>and chat with me here:</p>
+<div style="display: flex; align-items: center;" > <p align="left">Hi! My name is Renata, but you can call me Maki<br>and chat with me here:</p>
   <a href="https://www.linkedin.com/in/renatarodryguez/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
   </a>
