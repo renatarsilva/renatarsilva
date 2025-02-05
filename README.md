@@ -12,7 +12,7 @@
 
 <p align="center">
   
-  I'm passionate about technology, data, and process optimization, with a solid background in Business Administration and specialization in Data Analysis. Currently diving deep into Software Engineering to expand my technical skills and enhance my ability to build effective solutions. Using:</p>
+I am passionate about technology, data, and process optimization, with a solid background in Business Administration and specialization in Data Analysis. I am currently studying Technology in Systems Analysis and Development and delving into Full-Stack Development to expand my technical skills and enhance my ability to create effective solutions. Using…
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
@@ -46,4 +46,4 @@
 
 ### Experience
 
-<p align="left">I'm working as a Performance Media Analyst, where I use Python, SQL, and Power BI to drive insights and improve the efficiency of marketing campaigns. With hands-on experience in Google Ads, Meta (Facebook/Instagram), and DV360, I focus on data-driven strategies that deliver impactful results. <br><br>Projects and Learning<br>Here on GitHub, you'll find projects ranging from Python automation to data analysis and visualization. I love exploring new technologies and creating solutions that simplify tasks and optimize workflows. <br><br>Currently Learning<br>Expanding my knowledge in Software Engineering fundamentals and deepening my expertise in Python and Golang to become a more versatile and capable developer.<br><br> Python, Go, ShellScript, AWS, JavaScript, TypeScript, React, Next, Tail, Canva, Figma, Docker, NestJs, NodeJs, Git</p>
+<p align="left">I have a degree in Business Administration with an emphasis on Big Data. I worked in administration for 7 years, gaining experience in areas such as logistics, accounting, and operational intelligence. Additionally, I spent 3 years working in advertising, specifically in the media and data sector. Currently, I am studying Technology in Systems Analysis and Development and contributing to a social project for a nonprofit organization as a full-stack developer. I am also a moderator for a developer community.</p>
