@@ -44,6 +44,8 @@ I am passionate about technology, data, and process optimization, with a solid b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
+<img height="20px" src="https://api.visitorbadge.io/api/visitors?path=github.com%2Frenatarsilva&label=profile%20views&labelColor=%236c0000&countColor=%23151515&style=flat" alt="renatarsilva-profile-views">
+
 ### Experience
 
 <p align="left">I have a degree in Business Administration with an emphasis on Big Data. I worked in administration for 7 years, gaining experience in areas such as logistics, accounting, and operational intelligence. Additionally, I spent 3 years working in advertising, specifically in the media and data sector. Currently, I am studying Technology in Systems Analysis and Development and contributing to a social project for a nonprofit organization as a full-stack developer. I am also a moderator for a developer community.</p>
