@@ -1,5 +1,7 @@
 <br clear="both">
 
+<img height="20px" src="https://api.visitorbadge.io/api/visitors?path=github.com%2Frenatarsilva&label=profile%20views&labelColor=%236c0000&countColor=%23151515&style=flat" alt="renatarsilva-profile-views">
+
 <h1 align="left">Hi! I'm Renata R.! ✨</h1>
 
 <img align="right" height="180" src="https://media1.tenor.com/m/M-MGHhwFkYAAAAAd/maki-zennin.gif"  />
@@ -44,7 +46,6 @@ I am passionate about technology, data, and process optimization, with a solid b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-<img height="20px" src="https://api.visitorbadge.io/api/visitors?path=github.com%2Frenatarsilva&label=profile%20views&labelColor=%236c0000&countColor=%23151515&style=flat" alt="renatarsilva-profile-views">
 
 ### Experience
 
