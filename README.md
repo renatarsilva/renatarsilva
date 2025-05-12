@@ -50,3 +50,5 @@ I am passionate about technology, data, and process optimization, with a solid b
 ### Experience
 
 <p align="left">I have a degree in Business Administration with an emphasis on Big Data. I worked in administration for 7 years, gaining experience in areas such as logistics, accounting, and operational intelligence. Additionally, I spent 3 years working in advertising, specifically in the media and data sector. Currently, I am studying Technology in Systems Analysis and Development and contributing to a social project for a nonprofit organization as a full-stack developer. I am also a moderator for a developer community.</p>
+
+<img src="https://wakatime.com/share/@Renata/f75e941d-efd9-4cb6-a159-f4a8113df166.svg" />
