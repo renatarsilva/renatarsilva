@@ -53,4 +53,4 @@ I am passionate about technology, data, and process optimization, with a solid b
 
 <p> Follow my programming journey through my WakaTime stats: </p>
 
-<img src="https://wakatime.com/share/@Renata/f75e941d-efd9-4cb6-a159-f4a8113df166.svg" />
+<figure><embed src="https://wakatime.com/share/@Renata/e39d54e9-5b79-4eb6-a662-a15195f5dd66.svg"></embed></figure>
