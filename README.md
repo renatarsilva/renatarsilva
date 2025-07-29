@@ -2,7 +2,7 @@
 
 <img height="20px" src="https://api.visitorbadge.io/api/visitors?path=github.com%2Frenatarsilva&label=profile%20views&labelColor=%236c0000&countColor=%23151515&style=flat" alt="renatarsilva-profile-views">
 
-<h1 align="left">Hi! I'm Renata R.! ✨</h1>
+<h1 align="left">Hi! I'm Maki! ✨</h1>
 
 <img align="right" height="180" src="https://media1.tenor.com/m/M-MGHhwFkYAAAAAd/maki-zennin.gif"  />
 
